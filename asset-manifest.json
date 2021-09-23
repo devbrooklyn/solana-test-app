@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://devbrooklyn.github.io/solana-test-app/static/css/main.06379c5a.chunk.css",
-    "main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/main.acee0b5f.chunk.js",
-    "main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/main.acee0b5f.chunk.js.map",
+    "main.css": "https://devbrooklyn.github.io/solana-test-app/static/css/main.f8105505.chunk.css",
+    "main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/main.d189afdf.chunk.js",
+    "main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/main.d189afdf.chunk.js.map",
     "runtime-main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.05f55d37.js",
     "runtime-main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.05f55d37.js.map",
-    "static/js/2.4c286bd5.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js",
-    "static/js/2.4c286bd5.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js.map",
+    "static/js/2.caa62a8a.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/2.caa62a8a.chunk.js",
+    "static/js/2.caa62a8a.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/2.caa62a8a.chunk.js.map",
     "static/js/3.8ed57125.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/3.8ed57125.chunk.js",
     "static/js/3.8ed57125.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/3.8ed57125.chunk.js.map",
     "index.html": "https://devbrooklyn.github.io/solana-test-app/index.html",
-    "static/css/main.06379c5a.chunk.css.map": "https://devbrooklyn.github.io/solana-test-app/static/css/main.06379c5a.chunk.css.map",
-    "static/js/2.4c286bd5.chunk.js.LICENSE.txt": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js.LICENSE.txt"
+    "static/css/main.f8105505.chunk.css.map": "https://devbrooklyn.github.io/solana-test-app/static/css/main.f8105505.chunk.css.map",
+    "static/js/2.caa62a8a.chunk.js.LICENSE.txt": "https://devbrooklyn.github.io/solana-test-app/static/js/2.caa62a8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.05f55d37.js",
-    "static/js/2.4c286bd5.chunk.js",
-    "static/css/main.06379c5a.chunk.css",
-    "static/js/main.acee0b5f.chunk.js"
+    "static/js/2.caa62a8a.chunk.js",
+    "static/css/main.f8105505.chunk.css",
+    "static/js/main.d189afdf.chunk.js"
   ]
 }
