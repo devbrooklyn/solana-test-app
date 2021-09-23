@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://devbrooklyn.github.io/solana-test-app/static/css/main.76598800.chunk.css",
-    "main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/main.8225fd61.chunk.js",
-    "main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/main.8225fd61.chunk.js.map",
-    "runtime-main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.c370e26c.js",
-    "runtime-main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.c370e26c.js.map",
-    "static/js/2.40be4a5e.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/2.40be4a5e.chunk.js",
-    "static/js/2.40be4a5e.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/2.40be4a5e.chunk.js.map",
-    "static/js/3.acdd0125.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/3.acdd0125.chunk.js",
-    "static/js/3.acdd0125.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/3.acdd0125.chunk.js.map",
+    "main.css": "https://devbrooklyn.github.io/solana-test-app/static/css/main.06379c5a.chunk.css",
+    "main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/main.acee0b5f.chunk.js",
+    "main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/main.acee0b5f.chunk.js.map",
+    "runtime-main.js": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.05f55d37.js",
+    "runtime-main.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/runtime-main.05f55d37.js.map",
+    "static/js/2.4c286bd5.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js",
+    "static/js/2.4c286bd5.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js.map",
+    "static/js/3.8ed57125.chunk.js": "https://devbrooklyn.github.io/solana-test-app/static/js/3.8ed57125.chunk.js",
+    "static/js/3.8ed57125.chunk.js.map": "https://devbrooklyn.github.io/solana-test-app/static/js/3.8ed57125.chunk.js.map",
     "index.html": "https://devbrooklyn.github.io/solana-test-app/index.html",
-    "static/css/main.76598800.chunk.css.map": "https://devbrooklyn.github.io/solana-test-app/static/css/main.76598800.chunk.css.map",
-    "static/js/2.40be4a5e.chunk.js.LICENSE.txt": "https://devbrooklyn.github.io/solana-test-app/static/js/2.40be4a5e.chunk.js.LICENSE.txt"
+    "static/css/main.06379c5a.chunk.css.map": "https://devbrooklyn.github.io/solana-test-app/static/css/main.06379c5a.chunk.css.map",
+    "static/js/2.4c286bd5.chunk.js.LICENSE.txt": "https://devbrooklyn.github.io/solana-test-app/static/js/2.4c286bd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c370e26c.js",
-    "static/js/2.40be4a5e.chunk.js",
-    "static/css/main.76598800.chunk.css",
-    "static/js/main.8225fd61.chunk.js"
+    "static/js/runtime-main.05f55d37.js",
+    "static/js/2.4c286bd5.chunk.js",
+    "static/css/main.06379c5a.chunk.css",
+    "static/js/main.acee0b5f.chunk.js"
   ]
 }
